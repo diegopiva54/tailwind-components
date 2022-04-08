@@ -52,3 +52,4 @@
 ```
 
 ## Futuros componentes aqui
+[Acesse aqui](https://play.tailwindcss.com/2enPLUJ4uR)
