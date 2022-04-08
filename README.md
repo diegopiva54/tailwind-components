@@ -1,5 +1,5 @@
 # tailwind-components
-<body class="bg-gray-100">
+```<body class="bg-gray-100">
   <form action="" class="my-20 mx-auto max-w-4xl space-y-6 px-4 md:max-w-6xl">
     <!-- row -->
     <!-- PESSOA JURÍDICA -->
@@ -124,3 +124,4 @@
     </div>
   </form>
 </body>
+```
